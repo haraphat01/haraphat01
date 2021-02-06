@@ -8,6 +8,6 @@ const options = {
     buttonColorDark: 'rgb(247, 172, 5)', // default: '#100f2c'
     buttonColorLight: '#fff', // default: '#fff'
     saveInCookies: false, // default: true,
-    label: 'Dark Mode', // default: ''
+    label: 'Light Mode', // default: ''
     autoMatchOsTheme: false // default: true
 }
