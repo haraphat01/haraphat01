@@ -1,4 +1,4 @@
-### Hi there, I'm a Full-stack Developer. I would love to sharpen my front-end skills, so I'm currently focusing on that. I'm available to work and looking for an amazing company that has a keen interest in developing junior developers.  👋
+### Hi there, I'm a Full-stack Developer. I would love to sharpen my back-end skills, so I'm currently focusing on that. I'm available to work and looking for an amazing company that has a keen interest in developing junior developers.  👋
 
 
 
