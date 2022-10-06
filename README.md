@@ -1,4 +1,4 @@
-### Hi there, I focus on product management and frontend development.👋
+### Hi there, I focus on product management and frontend development, I'll love to work on your project.👋
 
 
 
