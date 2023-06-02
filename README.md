@@ -1,4 +1,4 @@
-### Hi there, I focus on product management and frontend development, I'll love to work on your project.👋
+### I specialize in leading the development and delivery of quality software products. My expertise includes product strategy, product roadmap planning, requirements gathering, user experience design, project management, agile methodologies, and software development.👋
 
 
 
